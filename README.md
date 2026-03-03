@@ -1,6 +1,8 @@
-# 👋 ¡Hola! Soy Daniel Correa Vega
+<img width="1466" height="478" alt="image" src="https://github.com/user-attachments/assets/06f1486e-76c6-4f9d-99ff-2978dfd8e8c7" />
 
-### 🚀 Desarrollador Backend con 2 años de experiencia
+# 
+
+### ◩ Desarrollador Backend con 2 años de experiencia
 
 Me especializo en la **creación de APIs y modelado de datos**, con un enfoque sólido en arquitecturas eficientes y escalables. Aunque mi fuerte es el **Backend**, poseo bases sólidas en **Frontend** para garantizar integraciones fluidas y funcionales. 
 
@@ -28,12 +30,6 @@ Me especializo en la **creación de APIs y modelado de datos**, con un enfoque s
 <p align="center">
 <img src="https://nirzak-streak-stats.vercel.app/?user=DanielCorreaV&theme=dark&hide_border=false" alt="Streak" />
 </p>
-
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=DanielCorreaV&limit=5&theme=dark&combine_all_yearly_contributions=true" width="100%" />
-</p>
-
-
 
 ---
 
