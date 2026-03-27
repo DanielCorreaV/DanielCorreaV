@@ -80,7 +80,7 @@ Me especializo en la **creación de APIs y modelado de datos**, con un enfoque s
 ### 📈 Contribuciones Relevantes
 
 <p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=DanielCorreaV&theme=dark&hide_border=false" alt="Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielCorreaV&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
